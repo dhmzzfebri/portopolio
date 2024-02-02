@@ -19,7 +19,7 @@ export default function PageOverview() {
               </Text>
               <br />
               <Text tag={'p'} family={'Inter'} color={'rgba(255, 255, 255, 0.60)'} weight={''} line={'30px'} type={'regular1'}>
-                I'm Dimas Febriyanto, a passionate and results-driven software engineer with expertise in web development. With 2 years of hands-on experience, I've had the privilege of working on a diverse range of projects, honing my skills
+                I &apos; m Dimas Febriyanto, a passionate and results-driven software engineer with expertise in web development. With 2 years of hands-on experience, I &apos; ve had the privilege of working on a diverse range of projects, honing my skills
                 in creating robust and scalable web solutions.
               </Text>
             </TextOne>
