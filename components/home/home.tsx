@@ -17,7 +17,7 @@ export default function PageHome() {
           </HStyled>
           <H2Styled>
             <Text  tag={'p'} family={'Inter'} color={'rgba(255, 255, 255, 0.60);'} weight={''} line={''} type={'regular1'}>
-              Welcome to my corner of the web! I'm Software Engineer, a passionate and results-driven software engineer with expertise in web development.
+              Welcome to my corner of the web! I &apos; m Software Engineer, a passionate and results-driven software engineer with expertise in web development.
             </Text>
           </H2Styled>
           <Overview>
